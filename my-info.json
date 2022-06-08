@@ -1,7 +1,7 @@
 {
-    "threeFavColors": ["red","green","blue"],
+    "three_fav_folors": ["red","green","blue"],
     "country": "United Kingdom",
     "population": 67220000,
-    "willVisit": true,
-    "threeFavFoods": ["spaghetti", "pizza", "nasi lemak"]
+    "will_visit": true,
+    "three_fav_foods": ["spaghetti", "pizza", "nasi lemak"]
 }
