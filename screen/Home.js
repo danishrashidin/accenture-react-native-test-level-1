@@ -8,9 +8,14 @@ export default function Home({ navigation }) {
         navigation.navigate('Form')
     }
 
+    const viewCatalog = () => {
+        navigation.navigate('Catalog')
+    }
+
     return (
         <View style={styles.container}>
             <Button title="Contact Us!" onPress={openForm} />
+            <Button title="View Catalog" onPress={viewCatalog} />
             <StatusBar style="auto" />
         </View>
     )
